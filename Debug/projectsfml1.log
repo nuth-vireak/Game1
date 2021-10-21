@@ -1,0 +1,7 @@
+﻿  Game.cpp
+H:\mycoolgame\projectsfml1\projectsfml1\Game.cpp(140,19): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+H:\mycoolgame\projectsfml1\projectsfml1\Game.cpp(186,27): warning C4018: '<': signed/unsigned mismatch
+H:\mycoolgame\projectsfml1\projectsfml1\Game.cpp(198,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  projectsfml1.vcxproj -> H:\mycoolgame\projectsfml1\Debug\projectsfml1.exe
